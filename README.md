@@ -18,15 +18,6 @@ Está pensada como un ejemplo práctico para aprender y demostrar manejo de inte
 - **IDE:** Visual Studio 2022 
 - **Framework:** .NET Framework 4.8
 
-## 🤍 Estructura del proyecto
-Calculadora/
-├── Form1.cs # Lógica del formulario
-├── Form1.Designer.cs # Diseño visual del formulario
-├── Program.cs # Punto de entrada del programa
-├── bin/ # Archivos compilados
-├── obj/ # Archivos temporales
-└── README.md # Este archivo
-
 ## 🤍 Cómo ejecutar
 1. Clona este repositorio:
    ```bash
