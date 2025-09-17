@@ -5,7 +5,7 @@ Está pensada como un ejemplo práctico para aprender y demostrar manejo de inte
 
 ## 🤍 Vista previa
 
-![Interfaz de la calculadora](assets/calculadora.png)
+![Interfaz de la calculadora](calculadora.png)
 
 ## 🤍 Características principales
 - Interfaz gráfica amigable con botones para cada operación.
